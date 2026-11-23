@@ -1,0 +1,12 @@
+ALAYA - PROYECTO FINAL FUNCIONAL EN VS CODE
+
+1. Descomprime el ZIP. Todos los archivos están juntos, sin subcarpetas.
+2. Abre index.html con Chrome o Edge. No necesitas instalar nada.
+3. Pantalla de bienvenida > Introducción > Iniciar sesión / Crear cuenta.
+4. Para probar, crea una cuenta con un correo de prueba y contraseña de 6 caracteres.
+5. Navega por Home > Menú > Perfil > Editar > Configuración > Categorías > Catálogo > Detalle > Buscar > Notificaciones > Personalizar > Carrito > Entrega > Confirmación > Pedidos > Multimedia.
+6. Para GitHub Pages, sube TODOS los archivos directamente a la raíz del repositorio.
+
+IMPORTANTE: Los usuarios, contraseñas, carrito y pedidos son SIMULADOS y se guardan SOLO en el navegador (localStorage). NO utilices contraseñas reales. No hay servidor, cobros ni envío de pedidos reales.
+El video de YouTube necesita Internet. El motion graphic está incluido. La cuña MP3 y las URL oficiales de redes sociales no fueron suministradas.
+Las fotografías, el video y el código están en UNA SOLA CARPETA.
